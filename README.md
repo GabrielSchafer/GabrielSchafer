@@ -2,14 +2,14 @@
 
 <p align="left">Me chamo <strong>Gabriel Assmann</strong>, estudo <strong>Ciência da Computação</strong> na <strong>Unisinos</strong> e trabalho como <strong>Auxiliar de TI</strong>.<br>
 
-Sou <strong>desenvolvedor fullstack</strong>, atuando com backend em <strong>Node.js</strong>, <strong>Docker</strong>, <strong>Dart</strong> e <strong>Java</strong>, e frontend com <strong>JavaScript</strong>, <strong>Flutter</strong> além de manipulação de dados com <strong>Postgres</strong> e <strong>Python</strong>.</p>
+Sou <strong>desenvolvedor fullstack</strong>, atuando com backend em <strong>Node.js</strong>, <strong>Docker</strong>, <strong>Java</strong>, e frontend com <strong>JavaScript</strong>, além de manipulação de dados com <strong>Postgres</strong> e <strong>Python</strong>.</p>
 
 <p align="left">
-  🦄 Linguagens: Java, Dart, Python e Javascript
+  🦄 Linguagens: Java, Python e Javascript
 </p>
 
 <p align="left">
-  💼 Ferramentas: VScode, Git & Github, Docker, Figma, Postman
+  💼 Ferramentas: VScode, Git & Github, Docker, Figma
 </p>
 
 <p align="left">
