@@ -1,10 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Me chamo <strong>Gabriel Assmann</strong>, estudo <strong>Ciência da Computação</strong> na <strong>Unisinos</strong> e trabalho como <strong>Auxiliar de TI</strong>.<br>
-  Tenho grande interesse em <strong>Inteligência Artificial</strong> e <strong>Ciência de Dados</strong>, com experiência prática em <strong>Python</strong> para análise de dados, manipulação de conjuntos complexos e aplicação de algoritmos de aprendizado de máquina.<br>
-  Também possuo familiaridade com <strong>Docker</strong>, além de já ter atuado com <strong>Java</strong> e <strong>Node.js</strong> no backend.
+  Me chamo <strong>Gabriel Assmann</strong>, estudo <strong>Ciência da Computação</strong> na <strong>Unisinos</strong> e atuo como <strong>pesquisador júnior em Iniciação Científica</strong>.<br>
+  Tenho interesse em <strong>Inteligência Artificial</strong> e <strong>Ciência de Dados</strong>, com experiência em <strong>Python</strong>, <strong>Machine Learning</strong> e manipulação de dados.<br>
+  Já trabalhei com <strong>Java</strong>, <strong>Node.js</strong> e <strong>Docker</strong> em projetos de backend.
 </p>
+
 
 <p align="left">
   🧠 Habilidades: Java, Python, JavaScript, Keras, TensorFlow
