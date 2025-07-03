@@ -2,7 +2,8 @@
 
 <p align="left">
   Me chamo <strong>Gabriel Assmann</strong>, estudo <strong>Ciência da Computação</strong> na <strong>Unisinos</strong> e trabalho como <strong>Auxiliar de TI</strong>.<br>
-  Sou <strong>desenvolvedor fullstack</strong>, atuando com backend em <strong>Node.js</strong>, <strong>Docker</strong>, <strong>Java</strong>, e frontend com <strong>JavaScript</strong>, além de manipulação e análise de dados com <strong>Postgres</strong> e <strong>Python</strong>.
+  Tenho grande interesse em <strong>Inteligência Artificial</strong> e <strong>Ciência de Dados</strong>, com experiência prática em <strong>Python</strong> para análise de dados, manipulação de conjuntos complexos e aplicação de algoritmos de aprendizado de máquina.<br>
+  Também possuo familiaridade com <strong>Docker</strong>, além de já ter atuado com <strong>Java</strong> e <strong>Node.js</strong> no backend.
 </p>
 
 <p align="left">
