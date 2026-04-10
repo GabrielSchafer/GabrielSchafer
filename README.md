@@ -2,7 +2,7 @@
 
 <p align="left">
   Me chamo <strong>Gabriel Assmann</strong>, estudo <strong>Ciência da Computação</strong> na <strong>Unisinos</strong> e atuo como <strong>pesquisador júnior em Iniciação Científica</strong>.<br>
-  Tenho interesse em <strong>Inteligência Artificial</strong> e <strong>Ciência de Dados</strong>, com experiência em <strong>Python</strong>, <strong>Machine Learning</strong> e manipulação de dados.<br>
+  Tenho interesse em <strong>Engenharia de Dadosl</strong> e <strong>Ciência de Dados</strong>, com experiência em <strong>Python</strong>, <strong>Machine Learning</strong> e manipulação de dados.<br>
   Já trabalhei com <strong>Java</strong>, <strong>Node.js</strong> e <strong>Docker</strong> em projetos de backend.
 </p>
 
